@@ -1,0 +1,11 @@
+The following features were observed while running the code:
+
+1. It can Create a student
+2. It can Update a student
+3. It can Delete a student
+4. It can display the list of students
+------------------
+5. It can display the list of homework assignments
+-------------------
+6. It can display the list of grades
+
